@@ -13,3 +13,16 @@ div>h3{
 .css-1pqm26d-MuiAvatar-img {
     margin-top: 10px;
 }
+.input-home{
+    margin: 4px 0px 0px 15px;
+}
+.input-search-section{
+    margin: 1px 0px 0px 15px;
+}
+.icon-with-notification{
+    display: flex;
+    margin: 10px 0px 0px 8px;
+}
+.css-1pqm26d-MuiAvatar-img{
+    margin: 2px !important;
+}
